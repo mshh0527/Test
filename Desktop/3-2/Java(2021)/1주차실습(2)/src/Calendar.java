@@ -8,7 +8,7 @@ public class Calendar {
 		String[]days = {"일","월","화","수","목","금","토"};
 		final int NUM = 30;
 	
-		
+	
 		System.out.println("2021년 9월");
 		
 		for(int i=0;i<7;i++) {
